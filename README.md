@@ -1,5 +1,5 @@
 # RUST IN ACTION
-## Chapter 5 — Data in Depth
+### Chapter 5 — Data in Depth
 
 <p align="center">
   <a href="https://www.manning.com/books/rust-in-action">
